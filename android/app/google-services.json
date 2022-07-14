@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "829625653057",
+    "project_id": "shamba-c2677",
+    "storage_bucket": "shamba-c2677.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829625653057:android:c93083ac19e7edc48f73c0",
+        "android_client_info": {
+          "package_name": "com.mwathi.eshamba_updated"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829625653057-bos3umph6r9naec39uab0tu49dioms3t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mwathi.eshamba_updated",
+            "certificate_hash": "9dec25256d3d3f5c4bee07faf6427784b44f8247"
+          }
+        },
+        {
+          "client_id": "829625653057-cgg1i9votpeqfm5uqi233vete4t649ie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKcCf_GUS0O_tuYXpUZl5Vpygjpsgq7eE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829625653057-cgg1i9votpeqfm5uqi233vete4t649ie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
